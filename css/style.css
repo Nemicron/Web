@@ -605,7 +605,7 @@ img {
 /* Intro start */
 .intro {
 	min-height: 100vh;	
-	background: url('../img/background.png') no-repeat center/cover;
+	background: url('../img/background-min.png') no-repeat center/cover;
 	/* Именно 2 точки */
 	padding-top: 262px;
 	padding-bottom: 223px;
