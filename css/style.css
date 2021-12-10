@@ -743,7 +743,7 @@ img {
 	display: grid;
 	-ms-grid-columns: 1fr 55px 1fr 55px 1fr;
 	grid-template-columns: repeat(3, 1fr);
-	grid-column-gap: 55px;
+	column-gap: 55px;
 	padding: 0px 100px 112px;
 }
 
