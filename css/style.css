@@ -863,6 +863,7 @@ img {
 .places__card_size_lg {
 	-ms-grid-column-span: 3;
 	grid-column: span 3;
+	position: relative;
 }
 
 .places__card-pic_size_lg {
@@ -874,6 +875,7 @@ img {
 .places__card_size_sm {
 	-ms-grid-column-span: 2;
 	grid-column: span 2;
+	position: relative;
 }
 
 .places__card-pic_size_sm {
